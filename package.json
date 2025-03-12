@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://abhisathvik.github.io/my-wesite",
+  "homepage": "https://abhisathvik.github.io/my-portfolio-website",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://abhisathvik.github.io/my-wesite'",
+    "build-gh": "parcel build --public-url 'https://abhisathvik.github.io/my-portfolio-website'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
