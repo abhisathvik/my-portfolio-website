@@ -27,12 +27,10 @@ const siteProps = {
   name: "Abhi Sathvik Reddy Aniga",
   title: "Web Developer & Photographer",
   email: "abhisathvikreddy1738527@gmail.com",
-  gitHub: "https://github.com/abhisathvik",
+  github: "https://github.com/abhisathvik",
   instagram: "https://www.instagram.com/abhisathvik_reddy22/",
   linkedIn: "https://www.linkedin.com/in/abhi-sathvik-reddy-aniga-a7b15b256/",
-  medium: "",
   twitter: "https://x.com/Abhisathvik2208",
-  youTube: "",
 };
 
 const primaryColor = "#4E567E";
